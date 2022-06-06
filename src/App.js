@@ -6,7 +6,7 @@ import About from './screens/aboutScreen/About';
 import Login from './screens/loginScreen/Login';
 import SignUp from './screens/signUpScreen/SignUp';
 import Test from './screens/testScreen/Test';
-import Test from './screens/notFoundScreen/NotFound';
+import NotFound from './screens/notFoundScreen/NotFound';
 import Footer from './components/footer/Footer';
 
 
